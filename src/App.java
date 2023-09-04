@@ -20,5 +20,16 @@ public class App {
         produkt=tal2*tal3*tal4;
         System.out.println(tal2+"*"+tal3+"*"+tal4+"="+produkt);
         System.out.println("Produkten blev inte korrekt");
+
+        System.out.println("Uppgift C");
+        double kvot;
+        int tal5 =10;
+        int tal6=3;
+        kvot = tal1/tal2;
+        System.out.println(tal1+"/"+tal2+"="+kvot);
+
+        kvot = tal6/tal3;
+        System.out.println(tal6+"/"+tal3+"="+kvot);
+
     }
 }
