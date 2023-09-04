@@ -31,5 +31,10 @@ public class App {
         kvot = tal6/tal3;
         System.out.println(tal6+"/"+tal3+"="+kvot);
 
+        System.out.println("Uppgift D");
+        kvot=tal5%tal6;
+        System.out.println(tal5+"/"+tal6+"="+kvot);
+        System.out.println("12/4="+(12%4));
+
     }
 }
