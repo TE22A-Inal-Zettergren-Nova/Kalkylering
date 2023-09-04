@@ -19,6 +19,6 @@ public class App {
 
         produkt=tal2*tal3*tal4;
         System.out.println(tal2+"*"+tal3+"*"+tal4+"="+produkt);
-        
+        System.out.println("Produkten blev inte korrekt");
     }
 }
