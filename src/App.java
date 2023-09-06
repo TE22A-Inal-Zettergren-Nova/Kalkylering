@@ -33,8 +33,8 @@ public class App {
 
         System.out.println("Uppgift D");
         kvot=tal5%tal6;
-        System.out.println(tal5+"/"+tal6+"="+kvot);
-        System.out.println("12/4="+(12%4));
+        System.out.println(tal5+"%"+tal6+"="+kvot);
+        System.out.println("12%4="+(12%4));
 
     }
 }
